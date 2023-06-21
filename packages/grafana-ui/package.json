@@ -49,8 +49,8 @@
   "dependencies": {
     "@emotion/css": "11.10.5",
     "@emotion/react": "11.10.5",
-    "@grafana/data": "9.5.0-pre",
-    "@grafana/e2e-selectors": "9.5.0-pre",
+    "@grafana/data": "6.3.2",
+    "@grafana/e2e-selectors": "7.0.0",
     "@grafana/schema": "9.5.0-pre",
     "@leeoniya/ufuzzy": "1.0.2",
     "@monaco-editor/react": "4.4.6",
