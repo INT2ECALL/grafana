@@ -54,7 +54,7 @@
     "@grafana/data": "9.5.0-pre",
     "@grafana/eslint-config": "5.1.0",
     "@grafana/tsconfig": "^1.2.0-rc1",
-    "@grafana/ui": "9.5.0-pre",
+    "@grafana/ui": "6.3.2",
     "@jest/core": "27.5.1",
     "@types/command-exists": "^1.2.0",
     "@types/eslint": "8.4.1",
