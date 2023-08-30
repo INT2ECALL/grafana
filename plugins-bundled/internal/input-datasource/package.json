@@ -22,8 +22,8 @@
     "lodash": "4.17.21"
   },
   "dependencies": {
-    "@grafana/data": "9.5.0-pre",
-    "@grafana/ui": "9.5.0-pre",
+    "@grafana/data": "6.3.2",
+    "@grafana/ui": "6.3.2",
     "jquery": "3.5.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
