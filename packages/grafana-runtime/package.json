@@ -37,10 +37,10 @@
     "postpack": "mv package.json.bak package.json"
   },
   "dependencies": {
-    "@grafana/data": "9.5.0-pre",
+    "@grafana/data": "6.3.2",
     "@grafana/e2e-selectors": "9.5.0-pre",
     "@grafana/faro-web-sdk": "1.0.0-beta2",
-    "@grafana/ui": "9.5.0-pre",
+    "@grafana/ui": "6.3.2",
     "@sentry/browser": "6.19.7",
     "history": "4.10.1",
     "lodash": "4.17.21",
